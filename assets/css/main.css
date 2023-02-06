@@ -8786,10 +8786,10 @@ footer {}
 footer p {
 	font-size: 0.9em;
 	text-align: center;
-	color: #cbcbcb;
+	color: #afa8a8;
 }
 
 footer p a:link,
 footer p a:visited {
-	color: #cbcbcb;
+	color: #afa8a8;
 }
